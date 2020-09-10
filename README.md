@@ -1,7 +1,7 @@
-<!--
+
 ### Hi there 👋
 
-
+<!--
 **HaniMohamed/HaniMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 ## Hey, I'm [Hani Hussein](https://github.com/iampavangandhi/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hani-m-hussein-16153572/)
@@ -133,3 +133,4 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+-->
