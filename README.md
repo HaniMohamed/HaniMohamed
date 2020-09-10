@@ -65,7 +65,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true" />
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=HaniMohamed&show_icons=true&hide_border=true" />
 </details>
 
 <details>
